@@ -2,4 +2,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Freelancer studying computer science, IT news writer from Russia RU<h3>
 <br>
-<img width="80%" alt="Hello..." src="./assets/gh-readme-header.png"/>
+<img width="80%" alt="Hello..." src="./assets/i (1)v.jpg"/>
